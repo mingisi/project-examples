@@ -15,9 +15,13 @@
  */
 
 buildscript {
+  
   repositories {
     jcenter()
   }
+}
+dependencies {
+  compile(group: 'com.elsevier.automation', name: 'els-at-engine', version: '3.0.1')
 }
 
 allprojects {
