@@ -20,9 +20,9 @@ buildscript {
     jcenter()
   }
   
-  dependencies {
-    classpath 'com.elsevier.automation:els-at-engine:3.0.1'
-  }
+  // dependencies {
+  //   classpath 'com.elsevier.automation:els-at-engine:3.0.1'
+  // }
 }
 // dependencies {
 //   compile(group: 'com.elsevier.automation', name: 'els-at-engine', version: '3.0.1')
